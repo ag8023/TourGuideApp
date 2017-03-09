@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <!-- Category name for list of breweries [CHAR LIMIT=20] -->
+    <string name="category_breweries">Breweries</string>
+    <!-- Category name for list of parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+    <!-- Category name for list of districts [CHAR LIMIT=20] -->
+    <string name="category_districts">Districts</string>
+    <!-- Category name for list of food carts [CHAR LIMIT=20] -->
+    <string name="category_carts">Food Carts</string>
+
+    <string name="location">Portland, OR</string>
+    <!-- District strings -->
+    <string name="pearl_name">The Pearl District</string>
+    <string name="pearl_desc">The chic Pearl District features galleries and cultural institutions, as well as stylish shops and acclaimed eateries.</string>
+    <string name="china_name">Old Town Chinatown</string>
+    <string name="china_desc">Historical architecture and nightlife options fill the blocks near the west end of the Burnside Bridge.</string>
+    <string name="lloyd_name">Lloyd District</string>
+    <string name="lloyd_desc">Just across the river from downtown, this area caters to convention attendees, sports fans and shoppers.</string>
+    <string name="downtown_name">Downtown Portland</string>
+    <string name="downtown_desc">Explore diverse shopping, dining and cultural offerings in downtown Portland.</string>
+    <string name="nob_name">Northwest Portland/Nob Hill</string>
+    <string name="nob_desc">Northwest Portland offers sophisticated shopping, dining and people-watching.</string>
+    <string name="alberta_name">Alberta Arts District</string>
+    <string name="alberta_desc">Independent and diverse, this Northeast Portland neighborhood teems with art, shopping and dining options.</string>
+    <string name="hawt_name">Hawthorne</string>
+    <string name="hawt_desc">Hippies and hipsters mingle on this busy Southeast Portland street.</string>
+    <string name="belmont_name">Belmont</string>
+    <string name="belmont_desc">Visit this Southeast Portland street for great local flavor and some surprising history.</string>
+
+    <!-- Food cart Strings -->
+    <string name = "zombie">Pastrami Zombie</string>
+    <string name="zombie_loc">5429 N.E. 42nd Ave.\n541-301-2197</string>
+    <string name="zombie_desc">This smoky Montreal-style pastrami goes great on a sandwich and better as a burger topping, but is best with Swiss cheese, Russian dressing and slaw in what is already one of the top Reubens in Portland.</string>
+    <string name="pyro">Pyro Pizza</string>
+    <string name="pyro_loc">1204 S.E. Hawthorne Blvd.\n503-929-1404</string>
+    <string name="pyro_desc">This wood-fired pizza cart is a fixture of the Cartopia pod, also home to Chicken and Guns, Perierra Creperie, Potato Champion and more. Pair your nicely charred margherita pizza with a cart-made sodas.</string>
+    <string name="chkguns">Chicken and Guns</string>
+    <string name="chkguns_loc">1207 S.E. Hawthorne Blvd.\n503-234-7236</string>
+    <string name="chkguns_desc">Chicken and Guns happens to roast some fantastic chicken, with spice-rubbed birds grilled over mesquite and white oak and drizzled with their thick, forest-green aji sauce. </string>
+
+
+    <!-- Parks Strings -->
+    <string name="wp">International Rose Test Gardens</string>
+    <string name="wp_loc">400 SW Kingston Ave.</string>
+    <string name="tmp">Tom McCall Waterfront Park</string>
+    <string name="tmp_loc">Naito Pkwy.between SW Harrison St.and NW Glisan St.</string>
+    <string name="jpn">Portland Japanese Gardens</string>
+    <string name="jpn_loc">SW Kingston Dr.</string>
+    <string name="chn">Lan Su Chinese Gardens</string>
+    <string name="chn_loc">239 NW Everett St.</string>
+    <string name="fp">Forest Park</string>
+    <string name="fp_loc">NW 29th Ave and Upshur St.to Newberry Rd.</string>
+    <string name="tabor">Mt. Tabor Park</string>
+    <string name="tabor_loc">SE 60th Ave. and Salmon St.</string>
+
+    <!-- breweries Strings -->
+    <string name="deschutes">Deschutes Brewery</string>
+    <string name="des_loc">210 NW 11th Ave\nPortland,OR 97209\n503-296-4906</string>
+    <string name="cascade">Cascade Brewing House</string>
+    <string name="casc_loc">939 SE Belmont St\nPortland,OR 97214\n503-265-8603</string>
+    <string name="hopworks">Hopworks Urban Brewery</string>
+    <string name="hw_loc">2944 SE Powell Blvd\nPortland,OR 97202\n503-232-4677</string>
+    <string name="fatheads">Fat Heads Brewery</string>
+    <string name="fh_loc">131 NW 13th Ave\nPortland,OR 97209\n503-820-7721</string>
+
+
+</resources>
